@@ -7,7 +7,7 @@
 body 
 {
 	border: 3px solid white;
-	width: 960px;
+	outline: 4px dashed white;
 	color: white;
 	background-color: SteelBlue;
 	margin: 20px;
@@ -15,7 +15,7 @@ body
 	padding-top: 0px;
 }
 
-p 
+h1 
 {
-
+	background-color: CornflowerBlue;
 }
