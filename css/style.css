@@ -1,7 +1,7 @@
 *{
 }
 
-body 
+body
 {
 	border: 3px solid Ivory;
 	outline: 8px solid DimGray;
@@ -13,6 +13,13 @@ body
 	padding-bottom: 0px;
 }
 
+li
+{
+   float: left;
+   margin: 0 1.5%;
+   width: 30%;
+}
+
 p
 {
 	background-color: Ivory;
@@ -20,7 +27,7 @@ p
 	padding: 20px;
 }
 
-h1, h2, h3, h4, h5 
+h1, h2, h3, h4, h5
 {
 	background-color: DimGray;
 	padding: 10px;
