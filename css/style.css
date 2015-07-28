@@ -1,9 +1,11 @@
 *{
+	border-radius: 10px;
 }
 
 body 
 {
 	border: 3px solid Ivory;
+	border-radius: 0px;
 	outline: 8px solid DimGray;
 	color: Ivory;
 	background-color: DarkGray;
@@ -18,6 +20,7 @@ p
 	background-color: Ivory;
 	color: DimGray;
 	padding: 20px;
+	border-radius: 0px;
 }
 
 h1 
