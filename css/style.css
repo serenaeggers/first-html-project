@@ -1,43 +1,51 @@
-*{}
+*{
+}
 
 body 
 {
-	border: 3px solid white;
-	outline: 8px solid MediumSlateBlue;
-	color: white;
-	background-color: DarkSlateBlue;
+	border: 3px solid Ivory;
+	outline: 8px solid DimGray;
+	color: Ivory;
+	background-color: DarkGray;
 	margin: 20px;
 	padding: 20px;
 	padding-top: 0px;
 	padding-bottom: 0px;
 }
 
+p
+{
+	background-color: Ivory;
+	color: DimGray;
+	padding: 20px;
+}
+
 h1 
 {
-	background-color: MediumSlateBlue;
+	background-color: DimGray;
 	padding: 10px;
 }
 
 h2 
 {
-	background-color: MediumSlateBlue;
+	background-color: DimGray;
 	padding: 10px;
 }
 
 h3 
 {
-	background-color: MediumSlateBlue;
+	background-color: DimGray;
 	padding: 10px;
 }
 
 h4 
 {
-	background-color: MediumSlateBlue;
+	background-color: DimGray;
 	padding: 10px;
 }
 
 h5 
 {
-	background-color: MediumSlateBlue;
+	background-color: DimGray;
 	padding: 10px;
 }
