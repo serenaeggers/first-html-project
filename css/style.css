@@ -1,7 +1,18 @@
+* 
+{
+	border: 1px dashed white;
+	padding: 10px;
+}
+
 body 
 {
-	border: 1px solid black;
+	border: 3px solid white;
 	width: 960px;
+	color: white;
+	background-color: SteelBlue;
+	margin: 20px;
+	padding: 20px;
+	padding-top: 0px;
 }
 
 p 
