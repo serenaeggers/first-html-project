@@ -1,21 +1,43 @@
-* 
-{
-	border: 1px dashed white;
-	padding: 10px;
-}
+*{}
 
 body 
 {
 	border: 3px solid white;
-	outline: 4px dashed white;
+	outline: 8px solid MediumSlateBlue;
 	color: white;
-	background-color: SteelBlue;
+	background-color: DarkSlateBlue;
 	margin: 20px;
 	padding: 20px;
 	padding-top: 0px;
+	padding-bottom: 0px;
 }
 
 h1 
 {
-	background-color: CornflowerBlue;
+	background-color: MediumSlateBlue;
+	padding: 10px;
+}
+
+h2 
+{
+	background-color: MediumSlateBlue;
+	padding: 10px;
+}
+
+h3 
+{
+	background-color: MediumSlateBlue;
+	padding: 10px;
+}
+
+h4 
+{
+	background-color: MediumSlateBlue;
+	padding: 10px;
+}
+
+h5 
+{
+	background-color: MediumSlateBlue;
+	padding: 10px;
 }
