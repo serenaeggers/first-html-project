@@ -1,11 +1,9 @@
 *{
-	border-radius: 10px;
 }
 
 body 
 {
 	border: 3px solid Ivory;
-	border-radius: 0px;
 	outline: 8px solid DimGray;
 	color: Ivory;
 	background-color: DarkGray;
@@ -20,35 +18,11 @@ p
 	background-color: Ivory;
 	color: DimGray;
 	padding: 20px;
-	border-radius: 0px;
 }
 
-h1 
+h1, h2, h3, h4, h5 
 {
 	background-color: DimGray;
 	padding: 10px;
-}
-
-h2 
-{
-	background-color: DimGray;
-	padding: 10px;
-}
-
-h3 
-{
-	background-color: DimGray;
-	padding: 10px;
-}
-
-h4 
-{
-	background-color: DimGray;
-	padding: 10px;
-}
-
-h5 
-{
-	background-color: DimGray;
-	padding: 10px;
+	border-radius: 10px;
 }
