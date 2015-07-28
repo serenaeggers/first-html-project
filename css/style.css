@@ -13,9 +13,19 @@ body
 	padding-bottom: 0px;
 }
 
-ul
+.bar:before, .bar:after
+{
+   content: "";
+   display:table;
+}
+.bar:after
+{
+   clear: both;
+}
+.bar
 {
    list-style-type: none;
+   clear: both;
 }
 
 li
@@ -27,7 +37,6 @@ li
    padding: 10px;
    border: 1px solid Ivory;
    border-radius: 10px;
-
 }
 
 p
