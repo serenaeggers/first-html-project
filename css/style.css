@@ -26,17 +26,19 @@ body
 {
    list-style-type: none;
    clear: both;
+   padding: 0px;
 }
 
 li
 {
    float: left;
-   margin: 10px;
-   width: 30%;
-   background-color: DimGray;
+   width: 28%;
+   margin: 1%;
+   background-color: #484848;
    padding: 10px;
    border: 1px solid Ivory;
    border-radius: 10px;
+   text-align: center;
 }
 
 p
