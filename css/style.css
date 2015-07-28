@@ -3,14 +3,14 @@
 
 body
 {
-	border: 3px solid Ivory;
-	outline: 8px solid DimGray;
-	color: Ivory;
-	background-color: DarkGray;
-	margin: 20px;
-	padding: 20px;
-	padding-top: 0px;
-	padding-bottom: 0px;
+   border: 3px solid Ivory;
+   outline: 8px solid DimGray;
+   color: Ivory;
+   background-color: DarkGray;
+   margin: 20px;
+   padding: 20px;
+   padding-top: 0px;
+   padding-bottom: 0px;
 }
 
 .bar:before, .bar:after
@@ -43,9 +43,9 @@ li
 
 p
 {
-	background-color: Ivory;
-	color: DimGray;
-	padding: 20px;
+   background-color: Ivory;
+   color: DimGray;
+   padding: 20px;
 }
 
 h1, h2, h3, h4, h5
