@@ -8,9 +8,9 @@ body
    color: Ivory;
    background-color: DarkGray;
    margin: 20px;
-   padding: 20px;
-   padding-top: 0px;
-   padding-bottom: 0px;
+   padding: 40px;
+   padding-top: 20px;
+   padding-bottom: 20px;
 }
 
 .bar:before, .bar:after
@@ -27,6 +27,7 @@ body
    list-style-type: none;
    clear: both;
    padding: 0px;
+   background-color: #484848;
 }
 
 li
@@ -36,7 +37,7 @@ li
    margin: 1%;
    background-color: #484848;
    padding: 10px;
-   border: 1px solid Ivory;
+   border: 2px solid Ivory;
    border-radius: 10px;
    text-align: center;
 }
